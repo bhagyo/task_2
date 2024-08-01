@@ -1,0 +1,42 @@
+
+body {
+    background-color: gray;
+}
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+}
+.header-class {
+    width: 1901;
+    height: 305;
+
+    background-color: white;
+    padding: 30px 0;
+}
+
+.divcommon {
+    font-weight: 700;
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    width: 480px;
+    color: white;
+    font-size: 40px;
+    align-items: center;
+    border-radius: 5px;
+}
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.div1 {
+    background-color: #0DCBF0;
+}
+.div2 {
+    background-color: #0E6FFD;
+}
+.div3 {
+    background-color: #198754;
+}
